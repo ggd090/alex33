@@ -1,1 +1,522 @@
-bddbb
+#EXTINF:-1 tvg-id="a.e.mx" tvg-name="MX001:A&E FHD" tvg-logo="" group-title="Mexico",MX001:A&E FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51457
+#EXTINF:-1 tvg-id="adn40.mx" tvg-name="MX002:ADN40 FHD" tvg-logo="" group-title="Mexico",MX002:ADN40 FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51456
+#EXTINF:-1 tvg-id="aym.sports.mx" tvg-name="MX003:AL JAZZERA" tvg-logo="" group-title="Mexico",MX003:AL JAZZERA
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51455
+#EXTINF:-1 tvg-id="animal.planet.mx" tvg-name="MX004:Animal Planet FHD" tvg-logo="" group-title="Mexico",MX004:Animal Planet FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51454
+#EXTINF:-1 tvg-id="antena.3.mx" tvg-name="MX005:Antena 3 FHD" tvg-logo="" group-title="Mexico",MX005:Antena 3 FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51453
+#EXTINF:-1 tvg-id="axn.mx" tvg-name="MX006:AXN FHD" tvg-logo="" group-title="Mexico",MX006:AXN FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51452
+#EXTINF:-1 tvg-id="aym.sports.mx" tvg-name="MX007:AYM Sports FHD" tvg-logo="" group-title="Mexico",MX007:AYM Sports FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51451
+#EXTINF:-1 tvg-id="az.corazon.mx" tvg-name="MX008:Azteca Corazon FHD" tvg-logo="" group-title="Mexico",MX008:Azteca Corazon FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51450
+#EXTINF:-1 tvg-id="az.corazon.mx" tvg-name="MX009:Azteca Corazon" tvg-logo="" group-title="Mexico",MX009:Azteca Corazon
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51449
+#EXTINF:-1 tvg-id="tdn.mx" tvg-name="MX010:AZTECA FHD" tvg-logo="" group-title="Mexico",MX010:AZTECA FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51448
+#EXTINF:-1 tvg-id="azteca.7.mx" tvg-name="MX011:Azteca 7 FHD" tvg-logo="" group-title="Mexico",MX011:Azteca 7 FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51447
+#EXTINF:-1 tvg-id="azteca.cinema.mx" tvg-name="MX012:Azteca Cinema" tvg-logo="" group-title="Mexico",MX012:Azteca Cinema
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51446
+#EXTINF:-1 tvg-id="tdn.mx" tvg-name="MX013:TDN HD" tvg-logo="" group-title="Mexico",MX013:TDN HD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51445
+#EXTINF:-1 tvg-id="azteca.click.mx" tvg-name="MX014:AZTECA CLICK" tvg-logo="" group-title="Mexico",MX014:AZTECA CLICK
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51444
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="MX015:Azteca Deportes FHD" tvg-logo="" group-title="Mexico",MX015:Azteca Deportes FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51443
+#EXTINF:-1 tvg-id="bandamax.mx" tvg-name="MX016:Azteca Deportes" tvg-logo="" group-title="Mexico",MX016:Azteca Deportes
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51442
+#EXTINF:-1 tvg-id="azteca.uno.mx" tvg-name="MX017:Azteca undo FHD" tvg-logo="" group-title="Mexico",MX017:Azteca undo FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51441
+#EXTINF:-1 tvg-id="azteca.uno.mx" tvg-name="MX018:Azteca undo" tvg-logo="" group-title="Mexico",MX018:Azteca undo
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51440
+#EXTINF:-1 tvg-id="mundo.mx" tvg-name="MX019:AZTECA MUNDO" tvg-logo="" group-title="Mexico",MX019:AZTECA MUNDO
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51439
+#EXTINF:-1 tvg-id="" tvg-name="MX020:Baby TV" tvg-logo="" group-title="Mexico",MX020:Baby TV
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51438
+#EXTINF:-1 tvg-id="baby.mx" tvg-name="MX021:Baby TV FHD" tvg-logo="" group-title="Mexico",MX021:Baby TV FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51437
+#EXTINF:-1 tvg-id="bandamax.mx" tvg-name="MX022:Bandamax FHD" tvg-logo="" group-title="Mexico",MX022:Bandamax FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51436
+#EXTINF:-1 tvg-id="bandamax.mx" tvg-name="MX023:Bandamax" tvg-logo="" group-title="Mexico",MX023:Bandamax
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51435
+#EXTINF:-1 tvg-id="bbc.world.news.mx" tvg-name="MX024:BBC World News FHD" tvg-logo="" group-title="Mexico",MX024:BBC World News FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51434
+#EXTINF:-1 tvg-id="bloomberg.mx" tvg-name="MX025:BLOMMBERG" tvg-logo="" group-title="Mexico",MX025:BLOMMBERG
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51433
+#EXTINF:-1 tvg-id="bloomberg.mx" tvg-name="MX026:Boomerang FHD" tvg-logo="" group-title="Mexico",MX026:Boomerang FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51432
+#EXTINF:-1 tvg-id="cadena.noticias.37.mx" tvg-name="MX027:CADEND TV" tvg-logo="" group-title="Mexico",MX027:CADEND TV
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51431
+#EXTINF:-1 tvg-id="comedy.central.mx" tvg-name="MX028:CANAL 26 FHD" tvg-logo="" group-title="Mexico",MX028:CANAL 26 FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51430
+#EXTINF:-1 tvg-id="de.pelicula.mx" tvg-name="MX029:CANAL 26 HD" tvg-logo="" group-title="Mexico",MX029:CANAL 26 HD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51429
+#EXTINF:-1 tvg-id="canal.4.mx" tvg-name="MX030:CANAL 4 FHD" tvg-logo="" group-title="Mexico",MX030:CANAL 4 FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51428
+#EXTINF:-1 tvg-id="canal.5.mx" tvg-name="MX031:CANAL 5 FHD" tvg-logo="" group-title="Mexico",MX031:CANAL 5 FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51427
+#EXTINF:-1 tvg-id="canal.7.mx" tvg-name="MX032:CANAL 7" tvg-logo="" group-title="Mexico",MX032:CANAL 7
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51426
+#EXTINF:-1 tvg-id="discovery.turbo.international.mx" tvg-name="MX033:CANAL 8 FHD" tvg-logo="" group-title="Mexico",MX033:CANAL 8 FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51425
+#EXTINF:-1 tvg-id="excelsior.mx" tvg-name="MX034:Canal Judicial FHD" tvg-logo="" group-title="Mexico",MX034:Canal Judicial FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51424
+#EXTINF:-1 tvg-id="canal.once.mx" tvg-name="MX035:Canal Once FHD" tvg-logo="" group-title="Mexico",MX035:Canal Once FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51423
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="MX036:CANAL107" tvg-logo="" group-title="Mexico",MX036:CANAL107
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51422
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="MX037:CANAL109 " tvg-logo="" group-title="Mexico",MX037:CANAL109 
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51421
+#EXTINF:-1 tvg-id="espn.2.mx" tvg-name="MX038:CANAL1749" tvg-logo="" group-title="Mexico",MX038:CANAL1749
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51420
+#EXTINF:-1 tvg-id="espn.3.mx" tvg-name="MX039:CANAL1899" tvg-logo="" group-title="Mexico",MX039:CANAL1899
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51419
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="MX040:CANAL1932" tvg-logo="" group-title="Mexico",MX040:CANAL1932
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51418
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="MX041:CANAL1944" tvg-logo="" group-title="Mexico",MX041:CANAL1944
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51417
+#EXTINF:-1 tvg-id="espn+.mx" tvg-name="MX042:CANAL2062" tvg-logo="" group-title="Mexico",MX042:CANAL2062
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51416
+#EXTINF:-1 tvg-id="" tvg-name="MX043:CANAL2278" tvg-logo="" group-title="Mexico",MX043:CANAL2278
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51415
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="MX044:CANAL2319" tvg-logo="" group-title="Mexico",MX044:CANAL2319
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51414
+#EXTINF:-1 tvg-id="film.arts.mx" tvg-name="MX045:CANAL104" tvg-logo="" group-title="Mexico",MX045:CANAL104
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51413
+#EXTINF:-1 tvg-id="foro.mx" tvg-name="MX046:CANAL113" tvg-logo="" group-title="Mexico",MX046:CANAL113
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51412
+#EXTINF:-1 tvg-id="fox.mx" tvg-name="MX047:CANAL317" tvg-logo="" group-title="Mexico",MX047:CANAL317
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51411
+#EXTINF:-1 tvg-id="fox.life.mx" tvg-name="MX048:CANAL401" tvg-logo="" group-title="Mexico",MX048:CANAL401
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51410
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="MX049:CANAL470" tvg-logo="" group-title="Mexico",MX049:CANAL470
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51409
+#EXTINF:-1 tvg-id="cnn.mx" tvg-name="MX050:CNN" tvg-logo="" group-title="Mexico",MX050:CNN
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51408
+#EXTINF:-1 tvg-id="cnn.en.espanol.mx" tvg-name="MX051:CNN International" tvg-logo="" group-title="Mexico",MX051:CNN International
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51407
+#EXTINF:-1 tvg-id="comedy.central.mx" tvg-name="MX052:COMEDY CENTRAL FHD" tvg-logo="" group-title="Mexico",MX052:COMEDY CENTRAL FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51406
+#EXTINF:-1 tvg-id="de.pelicula.mx" tvg-name="MX053:De Pelicula FHD" tvg-logo="" group-title="Mexico",MX053:De Pelicula FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51405
+#EXTINF:-1 tvg-id="de.pelicula.eua.mx" tvg-name="MX054:De Pelicula Plus FHD" tvg-logo="" group-title="Mexico",MX054:De Pelicula Plus FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51404
+#EXTINF:-1 tvg-id="discovery.mx" tvg-name="MX055:Discovery CHANNEL FHD" tvg-logo="" group-title="Mexico",MX055:Discovery CHANNEL FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51403
+#EXTINF:-1 tvg-id="discovery.home.health.mx" tvg-name="MX056:Discovery H&H FHD" tvg-logo="" group-title="Mexico",MX056:Discovery H&H FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51402
+#EXTINF:-1 tvg-id="discovery.kids.mx" tvg-name="MX057:Discovery Kids FHD" tvg-logo="" group-title="Mexico",MX057:Discovery Kids FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51401
+#EXTINF:-1 tvg-id="discovery.science.international.mx" tvg-name="MX058:Discovery Science FHD" tvg-logo="" group-title="Mexico",MX058:Discovery Science FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51400
+#EXTINF:-1 tvg-id="discovery.theater.mx" tvg-name="MX059:Discovery Theater FHD" tvg-logo="" group-title="Mexico",MX059:Discovery Theater FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51399
+#EXTINF:-1 tvg-id="discovery.turbo.international.mx" tvg-name="MX060:Discovery Turbo FHD" tvg-logo="" group-title="Mexico",MX060:Discovery Turbo FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51398
+#EXTINF:-1 tvg-id="discovery.world.mx" tvg-name="MX061:Discovery World FHD" tvg-logo="" group-title="Mexico",MX061:Discovery World FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51397
+#EXTINF:-1 tvg-id="investigation.discovery.mx" tvg-name="MX062:Investigation Discovery FHD" tvg-logo="" group-title="Mexico",MX062:Investigation Discovery FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51396
+#EXTINF:-1 tvg-id="discovery.civilization.international.mx" tvg-name="MX063:Discovery Civilization FHD" tvg-logo="" group-title="Mexico",MX063:Discovery Civilization FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51395
+#EXTINF:-1 tvg-id="history.mx" tvg-name="MX064:Discovery TLC HD" tvg-logo="" group-title="Mexico",MX064:Discovery TLC HD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51394
+#EXTINF:-1 tvg-id="distrito.comedia.mx" tvg-name="MX065:Distrito Comedia FHD" tvg-logo="" group-title="Mexico",MX065:Distrito Comedia FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51393
+#EXTINF:-1 tvg-id="distrito.comedia.mx" tvg-name="MX066:Distrito Comedia" tvg-logo="" group-title="Mexico",MX066:Distrito Comedia
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51392
+#EXTINF:-1 tvg-id="disney.mx" tvg-name="MX067:Disney Channel FHD" tvg-logo="" group-title="Mexico",MX067:Disney Channel FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51391
+#EXTINF:-1 tvg-id="disney.junior.mx" tvg-name="MX068:Disney Jr FHD" tvg-logo="" group-title="Mexico",MX068:Disney Jr FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51390
+#EXTINF:-1 tvg-id="disney.xd.mx" tvg-name="MX069:Disney XD FHD" tvg-logo="" group-title="Mexico",MX069:Disney XD FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51389
+#EXTINF:-1 tvg-id="e.mx" tvg-name="MX070:E! Entertainment FHD" tvg-logo="" group-title="Mexico",MX070:E! Entertainment FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51388
+#EXTINF:-1 tvg-id="xhz.las.estrellas.qe.mx" tvg-name="MX071:Canal de las Estrellas" tvg-logo="" group-title="Mexico",MX071:Canal de las Estrellas
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51387
+#EXTINF:-1 tvg-id="el.gourmet.mx" tvg-name="MX072:EL GOURMET FHD" tvg-logo="" group-title="Mexico",MX072:EL GOURMET FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51386
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="MX073:ESPN FHD" tvg-logo="" group-title="Mexico",MX073:ESPN FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51385
+#EXTINF:-1 tvg-id="espn.2.mx" tvg-name="MX074:ESPN 2 FHD" tvg-logo="" group-title="Mexico",MX074:ESPN 2 FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51384
+#EXTINF:-1 tvg-id="espn.3.mx" tvg-name="MX075:ESPN 3 FHD" tvg-logo="" group-title="Mexico",MX075:ESPN 3 FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51383
+#EXTINF:-1 tvg-id="espn+.mx" tvg-name="MX076:ESPN Plus FHD" tvg-logo="" group-title="Mexico",MX076:ESPN Plus FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51382
+#EXTINF:-1 tvg-id="espn.deportes.mx" tvg-name="MX077:ESPN NETWORK" tvg-logo="" group-title="Mexico",MX077:ESPN NETWORK
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51381
+#EXTINF:-1 tvg-id="excelsior.mx" tvg-name="MX078:Excelsior TV" tvg-logo="" group-title="Mexico",MX078:Excelsior TV
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51380
+#EXTINF:-1 tvg-id="film.arts.mx" tvg-name="MX079:FILM & ART HD" tvg-logo="" group-title="Mexico",MX079:FILM & ART HD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51379
+#EXTINF:-1 tvg-id="foro.mx" tvg-name="MX080:Foro TV FHD" tvg-logo="" group-title="Mexico",MX080:Foro TV FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51378
+#EXTINF:-1 tvg-id="fox.mx" tvg-name="MX081:FOX HD" tvg-logo="" group-title="Mexico",MX081:FOX HD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51377
+#EXTINF:-1 tvg-id="fox.life.mx" tvg-name="MX082:Fox Life HD" tvg-logo="" group-title="Mexico",MX082:Fox Life HD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51376
+#EXTINF:-1 tvg-id="bloomberg.mx" tvg-name="MX083:Fox Movies HD" tvg-logo="" group-title="Mexico",MX083:Fox Movies HD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51375
+#EXTINF:-1 tvg-id="fox.news.mx" tvg-name="MX084:Fox News HD" tvg-logo="" group-title="Mexico",MX084:Fox News HD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51374
+#EXTINF:-1 tvg-id="fox.premium.series.mx" tvg-name="MX085:Fox Series HD" tvg-logo="" group-title="Mexico",MX085:Fox Series HD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51373
+#EXTINF:-1 tvg-id="fox.sports.mx" tvg-name="MX086:Fox Sports 1 HD" tvg-logo="" group-title="Mexico",MX086:Fox Sports 1 HD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51372
+#EXTINF:-1 tvg-id="fox.sports.2.mx" tvg-name="MX087:Fox Sports 2 HD" tvg-logo="" group-title="Mexico",MX087:Fox Sports 2 HD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51371
+#EXTINF:-1 tvg-id="fox.sports.3.mx" tvg-name="MX088:Fox Sports 3 HD" tvg-logo="" group-title="Mexico",MX088:Fox Sports 3 HD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51370
+#EXTINF:-1 tvg-id="fox.premium.action.mx" tvg-name="MX089:Fox Action HD" tvg-logo="" group-title="Mexico",MX089:Fox Action HD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51369
+#EXTINF:-1 tvg-id="fx.mx" tvg-name="MX090:FX" tvg-logo="" group-title="Mexico",MX090:FX
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51368
+#EXTINF:-1 tvg-id="fx.movies.mx" tvg-name="MX091:FXM" tvg-logo="" group-title="Mexico",MX091:FXM
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51367
+#EXTINF:-1 tvg-id="golden.edge.mx" tvg-name="MX092:Golden Edge HD" tvg-logo="" group-title="Mexico",MX092:Golden Edge HD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51366
+#EXTINF:-1 tvg-id="canal.7.mx" tvg-name="MX093:Golden Plus HD" tvg-logo="" group-title="Mexico",MX093:Golden Plus HD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51365
+#EXTINF:-1 tvg-id="golden.mx" tvg-name="MX094:Golden HD" tvg-logo="" group-title="Mexico",MX094:Golden HD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51364
+#EXTINF:-1 tvg-id="history.mx" tvg-name="MX095:History HD" tvg-logo="" group-title="Mexico",MX095:History HD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51363
+#EXTINF:-1 tvg-id="hola.mx" tvg-name="MX096:HOLA TV HD" tvg-logo="" group-title="Mexico",MX096:HOLA TV HD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51362
+#EXTINF:-1 tvg-id="" tvg-name="MX097:VH1 Classic" tvg-logo="" group-title="Mexico",MX097:VH1 Classic
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51361
+#EXTINF:-1 tvg-id="imagen.mx" tvg-name="MX098:Imagen TV" tvg-logo="" group-title="Mexico",MX098:Imagen TV
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51360
+#EXTINF:-1 tvg-id="xhopma.ingenio.df.mx" tvg-name="MX099:Ingenio Tv" tvg-logo="" group-title="Mexico",MX099:Ingenio Tv
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51359
+#EXTINF:-1 tvg-id="lifetime.mx" tvg-name="MX100:Lifetime HD" tvg-logo="" group-title="Mexico",MX100:Lifetime HD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51358
+#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="MX101:Nickelodeon HD" tvg-logo="" group-title="Mexico",MX101:Nickelodeon HD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51357
+#EXTINF:-1 tvg-id="nick.2.mx" tvg-name="MX102:Nick 2 HD" tvg-logo="" group-title="Mexico",MX102:Nick 2 HD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51356
+#EXTINF:-1 tvg-id="el.nu9ve.mx" tvg-name="MX103:NU9VE TV" tvg-logo="" group-title="Mexico",MX103:NU9VE TV
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51355
+#EXTINF:-1 tvg-id="paramount.network.mx" tvg-name="MX104:Paramount Channel HD" tvg-logo="" group-title="Mexico",MX104:Paramount Channel HD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51354
+#EXTINF:-1 tvg-id="syfy.mx" tvg-name="MX105:SYFY HD" tvg-logo="" group-title="Mexico",MX105:SYFY HD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51353
+#EXTINF:-1 tvg-id="tnt.mx" tvg-name="MX106:TNT HD" tvg-logo="" group-title="Mexico",MX106:TNT HD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51352
+#EXTINF:-1 tvg-id="" tvg-name="LA001:A&E LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA001A&ELA.png" group-title="Latino",LA001:A&E LA
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58056
+#EXTINF:-1 tvg-id="" tvg-name="LA002:AMC LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA002AMCLA.png" group-title="Latino",LA002:AMC LA
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58055
+#EXTINF:-1 tvg-id="" tvg-name="LA003:Animal Planet LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA003AnimalPlanetLA.png" group-title="Latino",LA003:Animal Planet LA
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58054
+#EXTINF:-1 tvg-id="" tvg-name="LA004:AXN LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA004AXNLA.png" group-title="Latino",LA004:AXN LA
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58053
+#EXTINF:-1 tvg-id="" tvg-name="LA005:UFC Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA005UFCNetwork.png" group-title="Latino",LA005:UFC Network
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58052
+#EXTINF:-1 tvg-id="" tvg-name="LA006:Az Click" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA006AzClick.png" group-title="Latino",LA006:Az Click
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58051
+#EXTINF:-1 tvg-id="" tvg-name="LA007:Azteca 13" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA007Azteca13.png" group-title="Latino",LA007:Azteca 13
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58050
+#EXTINF:-1 tvg-id="" tvg-name="LA008:Azteca 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA008Azteca7.png" group-title="Latino",LA008:Azteca 7
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58049
+#EXTINF:-1 tvg-id="" tvg-name="LA009:Azteca Cinema" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA009AztecaCinema.png" group-title="Latino",LA009:Azteca Cinema
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58048
+#EXTINF:-1 tvg-id="" tvg-name="LA010:Azteca Mundo" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA010AztecaMundo.png" group-title="Latino",LA010:Azteca Mundo
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58047
+#EXTINF:-1 tvg-id="" tvg-name="LA011:Azteca Noticias" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA011AztecaNoticias.png" group-title="Latino",LA011:Azteca Noticias
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58046
+#EXTINF:-1 tvg-id="" tvg-name="LA012:Bandamax" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA012Bandamax.png" group-title="Latino",LA012:Bandamax
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58045
+#EXTINF:-1 tvg-id="" tvg-name="LA013:Boomerang" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA013Boomerang.png" group-title="Latino",LA013:Boomerang
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58044
+#EXTINF:-1 tvg-id="" tvg-name="LA014:Canal 11" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA014Canal11.png" group-title="Latino",LA014:Canal 11
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58043
+#EXTINF:-1 tvg-id="" tvg-name="LA015:Canal 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA015Canal5.png" group-title="Latino",LA015:Canal 5
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58042
+#EXTINF:-1 tvg-id="" tvg-name="LA016:Canal De Las Estrellas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA016CanalDeLasEstrellas.png" group-title="Latino",LA016:Canal De Las Estrellas
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58041
+#EXTINF:-1 tvg-id="" tvg-name="LA017:Caracol" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA017Caracol.png" group-title="Latino",LA017:Caracol
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58040
+#EXTINF:-1 tvg-id="" tvg-name="LA018:Carton Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA018CartonNetwork.png" group-title="Latino",LA018:Carton Network
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58039
+#EXTINF:-1 tvg-id="" tvg-name="LA019:CDF Premuim" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA019CDFPremuim.png" group-title="Latino",LA019:CDF Premuim
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58038
+#EXTINF:-1 tvg-id="" tvg-name="LA020:Cine Canal" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA020CineCanal.png" group-title="Latino",LA020:Cine Canal
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58037
+#EXTINF:-1 tvg-id="" tvg-name="LA021:Cinemax East" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA021CineLatino.png" group-title="Latino",LA021:Cinemax East
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58036
+#EXTINF:-1 tvg-id="" tvg-name="LA022:Cine Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA022CineMax.png" group-title="Latino",LA022:Cine Max
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58035
+#EXTINF:-1 tvg-id="" tvg-name="LA023:Claro Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA023ClaroSports.png" group-title="Latino",LA023:Claro Sports
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58034
+#EXTINF:-1 tvg-id="" tvg-name="LA024:CNN en Espagnol" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA024CNNenEspagnol.png" group-title="Latino",LA024:CNN en Espagnol
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58033
+#EXTINF:-1 tvg-id="" tvg-name="LA025:Comedy Central" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA025ComedyCentral.png" group-title="Latino",LA025:Comedy Central
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58032
+#EXTINF:-1 tvg-id="" tvg-name="LA026:De Pelicula" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA026DePelicula.png" group-title="Latino",LA026:De Pelicula
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58031
+#EXTINF:-1 tvg-id="" tvg-name="LA027:Discovery Home Health LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA027DiscoveryHomeHealthLA.png" group-title="Latino",LA027:Discovery Home Health LA
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58030
+#EXTINF:-1 tvg-id="" tvg-name="LA028:Discovery LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA028DiscoveryLA.png" group-title="Latino",LA028:Discovery LA
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58029
+#EXTINF:-1 tvg-id="" tvg-name="LA029:Discovery Civilization" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA029DiscoveryCivilization.png" group-title="Latino",LA029:Discovery Civilization
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58028
+#EXTINF:-1 tvg-id="" tvg-name="LA030:Discovery ID LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA030DiscoveryIDLA.png" group-title="Latino",LA030:Discovery ID LA
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58027
+#EXTINF:-1 tvg-id="" tvg-name="LA031:Discovery Kids" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA031DiscoveryKids.png" group-title="Latino",LA031:Discovery Kids
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58026
+#EXTINF:-1 tvg-id="" tvg-name="LA032:Discovery Science LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA032DiscoveryScienceLA.png" group-title="Latino",LA032:Discovery Science LA
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58025
+#EXTINF:-1 tvg-id="" tvg-name="LA033:Discovery Teather" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA033DiscoveryTeather.png" group-title="Latino",LA033:Discovery Teather
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58024
+#EXTINF:-1 tvg-id="" tvg-name="LA034:Discovery TLC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA034DiscoveryTLC.png" group-title="Latino",LA034:Discovery TLC
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58023
+#EXTINF:-1 tvg-id="" tvg-name="LA035:Discovery Turbo" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA035DiscoveryTurbo.png" group-title="Latino",LA035:Discovery Turbo
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58022
+#EXTINF:-1 tvg-id="" tvg-name="LA036:Universal" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA036Universal.png" group-title="Latino",LA036:Universal
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58021
+#EXTINF:-1 tvg-id="" tvg-name="LA037:Disney LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA037DisneyLA.png" group-title="Latino",LA037:Disney LA
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58020
+#EXTINF:-1 tvg-id="" tvg-name="LA038:Disney Junior LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA038DisneyJuniorLA.png" group-title="Latino",LA038:Disney Junior LA
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58019
+#EXTINF:-1 tvg-id="" tvg-name="LA039:Disney XD LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA039DisneyXDLA.png" group-title="Latino",LA039:Disney XD LA
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58018
+#EXTINF:-1 tvg-id="" tvg-name="LA040:Distrito Comedia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA040DistritoComedia.png" group-title="Latino",LA040:Distrito Comedia
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58017
+#EXTINF:-1 tvg-id="" tvg-name="LA041:Discovery Familia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA041DXTV.png" group-title="Latino",LA041:Discovery Familia
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58016
+#EXTINF:-1 tvg-id="" tvg-name="LA042:E! LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA042E!LA.png" group-title="Latino",LA042:E! LA
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58015
+#EXTINF:-1 tvg-id="" tvg-name="LA043:Bloomberg LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA043BloombergLA.png" group-title="Latino",LA043:Bloomberg LA
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58014
+#EXTINF:-1 tvg-id="" tvg-name="LA044:EL Gourmet" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA044ELGourmet.png" group-title="Latino",LA044:EL Gourmet
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58013
+#EXTINF:-1 tvg-id="" tvg-name="LA045:ESPN LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA045ESPNLA.png" group-title="Latino",LA045:ESPN LA
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58012
+#EXTINF:-1 tvg-id="" tvg-name="LA046:ESPN 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA046ESPN2.png" group-title="Latino",LA046:ESPN 2
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58011
+#EXTINF:-1 tvg-id="" tvg-name="LA047:ESPN 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA047ESPN3.png" group-title="Latino",LA047:ESPN 3
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58010
+#EXTINF:-1 tvg-id="" tvg-name="LA048:Film And Arts" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA048FilmAndArts.png" group-title="Latino",LA048:Film And Arts
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58009
+#EXTINF:-1 tvg-id="" tvg-name="LA049:Film Zone" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA049FilmZone.png" group-title="Latino",LA049:Film Zone
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58008
+#EXTINF:-1 tvg-id="" tvg-name="LA051:Fox Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA051FoxSeries.png" group-title="Latino",LA051:Fox Series
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58006
+#EXTINF:-1 tvg-id="" tvg-name="LA052:Fox Action" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA052FoxAction.png" group-title="Latino",LA052:Fox Action
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58005
+#EXTINF:-1 tvg-id="" tvg-name="LA053:Fox Cinema" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA053FoxCinema.png" group-title="Latino",LA053:Fox Cinema
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58004
+#EXTINF:-1 tvg-id="" tvg-name="LA054:Fox Classic" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA054FoxClassic.png" group-title="Latino",LA054:Fox Classic
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58003
+#EXTINF:-1 tvg-id="" tvg-name="LA055:Fox LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA055FoxLA.png" group-title="Latino",LA055:Fox LA
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58002
+#EXTINF:-1 tvg-id="" tvg-name="LA056:Fox Life" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA056FoxLife.png" group-title="Latino",LA056:Fox Life
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58001
+#EXTINF:-1 tvg-id="" tvg-name="LA057:Fox Movies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA057FoxMovies.png" group-title="Latino",LA057:Fox Movies
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58000
+#EXTINF:-1 tvg-id="" tvg-name="LA058:Fox Sports 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA058FoxSports1.png" group-title="Latino",LA058:Fox Sports 1
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57999
+#EXTINF:-1 tvg-id="" tvg-name="LA059:Fox Sports 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA059FoxSports2.png" group-title="Latino",LA059:Fox Sports 2
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57998
+#EXTINF:-1 tvg-id="" tvg-name="LA060:Fox Sports 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA060FoxSports3.png" group-title="Latino",LA060:Fox Sports 3
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57997
+#EXTINF:-1 tvg-id="" tvg-name="LA061:FX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA061FX.png" group-title="Latino",LA061:FX
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57996
+#EXTINF:-1 tvg-id="" tvg-name="LA062:Warner" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA062Warner.png" group-title="Latino",LA062:Warner
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57995
+#EXTINF:-1 tvg-id="" tvg-name="LA063:Glitz" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA063Glitz.png" group-title="Latino",LA063:Glitz
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57994
+#EXTINF:-1 tvg-id="" tvg-name="LA064:Golden Edge" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA064GoldenEdge.png" group-title="Latino",LA064:Golden Edge
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57993
+#EXTINF:-1 tvg-id="" tvg-name="LA065:Golden" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA065Golden.png" group-title="Latino",LA065:Golden
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57992
+#EXTINF:-1 tvg-id="" tvg-name="LA066:H2 LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA066H2LA.png" group-title="Latino",LA066:H2 LA
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57991
+#EXTINF:-1 tvg-id="" tvg-name="LA067:HBO LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA067HBOLA.png" group-title="Latino",LA067:HBO LA
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57990
+#EXTINF:-1 tvg-id="" tvg-name="LA068:HBO 2 LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA068HBO2LA.png" group-title="Latino",LA068:HBO 2 LA
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57989
+#EXTINF:-1 tvg-id="" tvg-name="LA069:HBO Family LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA069HBOFamilyLA.png" group-title="Latino",LA069:HBO Family LA
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57988
+#EXTINF:-1 tvg-id="" tvg-name="LA070:HBO Signature LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA070HBOSignatureLA.png" group-title="Latino",LA070:HBO Signature LA
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57987
+#EXTINF:-1 tvg-id="" tvg-name="LA071:History LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA071HistoryLA.png" group-title="Latino",LA071:History LA
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57986
+#EXTINF:-1 tvg-id="" tvg-name="LA072:HOLA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA072HOLATV.png" group-title="Latino",LA072:HOLA TV
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57985
+#EXTINF:-1 tvg-id="" tvg-name="LA073:I-SAT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA073I-SAT.png" group-title="Latino",LA073:I-SAT
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57984
+#EXTINF:-1 tvg-id="" tvg-name="LA074:ID LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA074IDLA.png" group-title="Latino",LA074:ID LA
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57983
+#EXTINF:-1 tvg-id="" tvg-name="LA075:Lifetime  LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA075LifetimeLA.png" group-title="Latino",LA075:Lifetime  LA
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57982
+#EXTINF:-1 tvg-id="" tvg-name="LA076:TDN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA076MIMusica.png" group-title="Latino",LA076:TDN
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57981
+#EXTINF:-1 tvg-id="" tvg-name="LA077:Win Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA077WinSports.png" group-title="Latino",LA077:Win Sports
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57980
+#EXTINF:-1 tvg-id="" tvg-name="LA078:MTV LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA078MTVLA.png" group-title="Latino",LA078:MTV LA
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57979
+#EXTINF:-1 tvg-id="" tvg-name="LA079:MTV Hits LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA079MTVHitsLA.png" group-title="Latino",LA079:MTV Hits LA
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57978
+#EXTINF:-1 tvg-id="" tvg-name="LA080:FXM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA080FXM.png" group-title="Latino",LA080:FXM
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57977
+#EXTINF:-1 tvg-id="" tvg-name="LA081:NAT GEO Wild LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA081NATGEOWildLA.png" group-title="Latino",LA081:NAT GEO Wild LA
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57976
+#EXTINF:-1 tvg-id="" tvg-name="LA082:NAT GEO LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA082NATGEOLA.png" group-title="Latino",LA082:NAT GEO LA
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57975
+#EXTINF:-1 tvg-id="" tvg-name="LA083:Nick JR LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA083NickJRLA.png" group-title="Latino",LA083:Nick JR LA
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57974
+#EXTINF:-1 tvg-id="" tvg-name="LA084:Nicktoons LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA084NicktoonsLA.png" group-title="Latino",LA084:Nicktoons LA
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57973
+#EXTINF:-1 tvg-id="" tvg-name="LA085:Nick LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA085NickLA.png" group-title="Latino",LA085:Nick LA
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57972
+#EXTINF:-1 tvg-id="" tvg-name="LA086:SONY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA086SONY.png" group-title="Latino",LA086:SONY
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57971
+#EXTINF:-1 tvg-id="" tvg-name="LA087:Space LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA087SpaceLA.png" group-title="Latino",LA087:Space LA
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57970
+#EXTINF:-1 tvg-id="" tvg-name="LA088:Studio Universal" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA088StudioUniversal.png" group-title="Latino",LA088:Studio Universal
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57969
+#EXTINF:-1 tvg-id="" tvg-name="LA089:SYFY LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA089SYFYLA.png" group-title="Latino",LA089:SYFY LA
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57968
+#EXTINF:-1 tvg-id="" tvg-name="LA090:TBS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA090TBS.png" group-title="Latino",LA090:TBS
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57967
+#EXTINF:-1 tvg-id="" tvg-name="LA091:TCM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA091TCM.png" group-title="Latino",LA091:TCM
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57966
+#EXTINF:-1 tvg-id="" tvg-name="LA092:Unicable" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA092Unicable.png" group-title="Latino",LA092:Unicable
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57965
+#EXTINF:-1 tvg-id="" tvg-name="LA093:Tele Hit" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA093TeleHit.png" group-title="Latino",LA093:Tele Hit
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57964
+#EXTINF:-1 tvg-id="" tvg-name="LA096:Canal Disney" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA096CanalDisney.png" group-title="Latino",LA096:Canal Disney
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57961
+#EXTINF:-1 tvg-id="" tvg-name="LA097:Tele Visa" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA097TeleVisa.png" group-title="Latino",LA097:Tele Visa
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57960
+#EXTINF:-1 tvg-id="" tvg-name="LA098:Paramount" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA098Paramount.png" group-title="Latino",LA098:Paramount
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57959
+#EXTINF:-1 tvg-id="" tvg-name="LA099:TLC LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA099TLCLA.png" group-title="Latino",LA099:TLC LA
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57958
+#EXTINF:-1 tvg-id="" tvg-name="LA100:TLnovelas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA100TLnovelas.png" group-title="Latino",LA100:TLnovelas
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57957
+#EXTINF:-1 tvg-id="" tvg-name="LA101:TNT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA101TNT.png" group-title="Latino",LA101:TNT
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57956
+#EXTINF:-1 tvg-id="" tvg-name="LA102:TNT Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA102TNTSeries.png" group-title="Latino",LA102:TNT Series
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57955
+#EXTINF:-1 tvg-id="" tvg-name="LA103:Tooncast" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA103Tooncast.png" group-title="Latino",LA103:Tooncast
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57954
+#EXTINF:-1 tvg-id="" tvg-name="LA104:UNIMAS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA104UNIMAS.png" group-title="Latino",LA104:UNIMAS
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57953
+#EXTINF:-1 tvg-id="" tvg-name="LA105:Tru TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA105TruTV.png" group-title="Latino",LA105:Tru TV
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57952
+#EXTINF:-1 tvg-id="" tvg-name="LA106:NU9VE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA106Marti.png" group-title="Latino",LA106:NU9VE
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57951
+#EXTINF:-1 tvg-id="" tvg-name="LA107:TVE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA107TVE.png" group-title="Latino",LA107:TVE
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/57950
+#EXTINF:-1 tvg-id="" tvg-name="LA109:ACTION MAX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA113ACTIONMAX.png" group-title="Latino",LA109:ACTION MAX
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59188
+#EXTINF:-1 tvg-id="" tvg-name="LA110:El Salvador" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA118ElSalvador.png" group-title="Latino",LA110:El Salvador
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59183
+#EXTINF:-1 tvg-id="" tvg-name="LA111:Nuestra Tele" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA126DWAmerica.png" group-title="Latino",LA111:Nuestra Tele
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59175
+#EXTINF:-1 tvg-id="" tvg-name="LA112:AZ MAS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA135AZMAS.png" group-title="Latino",LA112:AZ MAS
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59166
+#EXTINF:-1 tvg-id="" tvg-name="LA113:CANAL ONCE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA165CANALONCE.png" group-title="Latino",LA113:CANAL ONCE
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59136
+#EXTINF:-1 tvg-id="" tvg-name="LA114:CANAL DE LAS ESTRELLAS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA168CANALDELASESTRELLASHD.png" group-title="Latino",LA114:CANAL DE LAS ESTRELLAS HD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59133
+#EXTINF:-1 tvg-id="" tvg-name="LA115:Cinemoi" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA180Cinemoi.png" group-title="Latino",LA115:Cinemoi
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59121
+#EXTINF:-1 tvg-id="" tvg-name="LA116:Cinema 30 PPV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA199Cinema30PPV.png" group-title="Latino",LA116:Cinema 30 PPV
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59102
+#EXTINF:-1 tvg-id="" tvg-name="LA117:Cinemax Action" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA234CINEMAPLUS.png" group-title="Latino",LA117:Cinemax Action
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59067
+#EXTINF:-1 tvg-id="" tvg-name="LA118:Cinemax" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA235CinemaxActionHD.png" group-title="Latino",LA118:Cinemax
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59066
+#EXTINF:-1 tvg-id="" tvg-name="LA119:CNN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA245CNN.png" group-title="Latino",LA119:CNN
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59056
+#EXTINF:-1 tvg-id="" tvg-name="LA120:CNN ESPANOL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA247CNNESPANOL.png" group-title="Latino",LA120:CNN ESPANOL
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59054
+#EXTINF:-1 tvg-id="" tvg-name="LA121:Cubavision (Cuba)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA260Cubavision(Cuba).png" group-title="Latino",LA121:Cubavision (Cuba)
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59041
+#EXTINF:-1 tvg-id="" tvg-name="LA122:Cinemax West" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA265DHE.png" group-title="Latino",LA122:Cinemax West
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59036
+#EXTINF:-1 tvg-id="" tvg-name="LA123:Directv Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA267DirectvSports.png" group-title="Latino",LA123:Directv Sports
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59034
+#EXTINF:-1 tvg-id="" tvg-name="LA124:Directv Sports 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA269DirectvSports2.png" group-title="Latino",LA124:Directv Sports 2
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59032
+#EXTINF:-1 tvg-id="" tvg-name="LA125:Nick 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA280Nick2FHD.png" group-title="Latino",LA125:Nick 2 FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59021
+#EXTINF:-1 tvg-id="" tvg-name="LA126:EL TRECE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA299ELTRECEHD.png" group-title="Latino",LA126:EL TRECE HD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/59002
+#EXTINF:-1 tvg-id="" tvg-name="LA129:HCH SD HON" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA310HCHSDHON.png" group-title="Latino",LA129:HCH SD HON
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58991
+#EXTINF:-1 tvg-id="" tvg-name="LA130:FORO TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA318PFC.png" group-title="Latino",LA130:FORO TV
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58983
+#EXTINF:-1 tvg-id="" tvg-name="LA131:FOX NEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA323FOXNEWS.png" group-title="Latino",LA131:FOX NEWS
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58978
+#EXTINF:-1 tvg-id="" tvg-name="LA132:Fox Premium Action HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA324FoxPremiumActionHD.png" group-title="Latino",LA132:Fox Premium Action HD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58977
+#EXTINF:-1 tvg-id="" tvg-name="LA133:HBO Plus FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA354HBOPlusFHD.png" group-title="Latino",LA133:HBO Plus FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58947
+#EXTINF:-1 tvg-id="" tvg-name="LA134:HBO Plus West HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA355HBOPlusWestHD.png" group-title="Latino",LA134:HBO Plus West HD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58946
+#EXTINF:-1 tvg-id="" tvg-name="LA135:HBO East HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA356HBOEastHD.png" group-title="Latino",LA135:HBO East HD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58945
+#EXTINF:-1 tvg-id="" tvg-name="LA136:RCN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA376TELEMUSICA.png" group-title="Latino",LA136:RCN
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58925
+#EXTINF:-1 tvg-id="" tvg-name="LA137:TV Globo Internacional" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA390TVGloboInternacional.png" group-title="Latino",LA137:TV Globo Internacional
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58911
+#EXTINF:-1 tvg-id="" tvg-name="LA138:MAX UP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA404MAXUP.png" group-title="Latino",LA138:MAX UP
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58897
+#EXTINF:-1 tvg-id="" tvg-name="LA139:Milenio TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA410MilenioTVHD.png" group-title="Latino",LA139:Milenio TV HD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58891
+#EXTINF:-1 tvg-id="" tvg-name="LA140:MoviePlex FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA416MoviePlexFHD.png" group-title="Latino",LA140:MoviePlex FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58885
+#EXTINF:-1 tvg-id="" tvg-name="LA141:Multimedios HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA423MultimediosHD.png" group-title="Latino",LA141:Multimedios HD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58878
+#EXTINF:-1 tvg-id="" tvg-name="LA142:MULTIMEDIOS Plus" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA424MusicTopHD.png" group-title="Latino",LA142:MULTIMEDIOS Plus
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58877
+#EXTINF:-1 tvg-id="" tvg-name="LA143:TELEUNIVERSO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA426TELEUNIVERSO.png" group-title="Latino",LA143:TELEUNIVERSO
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58875
+#EXTINF:-1 tvg-id="" tvg-name="LA144:TV Quisqueya" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA431TVQuisqueya.png" group-title="Latino",LA144:TV Quisqueya
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58870
+#EXTINF:-1 tvg-id="" tvg-name="LA145:Tigo Sports 2 (Bolivia)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA468BoliviaTV.png" group-title="Latino",LA145:Tigo Sports 2 (Bolivia)
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58833
+#EXTINF:-1 tvg-id="" tvg-name="LA146:Todo Noticias" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA473TodoNoticias.png" group-title="Latino",LA146:Todo Noticias
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58828
+#EXTINF:-1 tvg-id="" tvg-name="LA147:RCN Novelas HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA489RCNNovelasHD.png" group-title="Latino",LA147:RCN Novelas HD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58812
+#EXTINF:-1 tvg-id="" tvg-name="LA149:Showtime East FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA521ShowtimeEastFHD.png" group-title="Latino",LA149:Showtime East FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58780
+#EXTINF:-1 tvg-id="" tvg-name="LA150:SHOWTIME FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA522SHOWTIMEFHD.png" group-title="Latino",LA150:SHOWTIME FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58779
+#EXTINF:-1 tvg-id="" tvg-name="LA151:Starz Cinema FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA531StarzCinemaFHD.png" group-title="Latino",LA151:Starz Cinema FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58770
+#EXTINF:-1 tvg-id="" tvg-name="LA152:Starz Comedy FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA532StarzComedyFHD.png" group-title="Latino",LA152:Starz Comedy FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58769
+#EXTINF:-1 tvg-id="" tvg-name="LA153:Starz Encore Action FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA534StarzEncoreActionFHD.png" group-title="Latino",LA153:Starz Encore Action FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58767
+#EXTINF:-1 tvg-id="" tvg-name="LA154:Starz Encore Black FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA535StarzEncoreBlackFHD.png" group-title="Latino",LA154:Starz Encore Black FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58766
+#EXTINF:-1 tvg-id="" tvg-name="LA155:Starz Encore Classic FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA536StarzEncoreClassicFHD.png" group-title="Latino",LA155:Starz Encore Classic FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58765
+#EXTINF:-1 tvg-id="" tvg-name="LA156:Starz Encore Family FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA537StarzEncoreFamilyFHD.png" group-title="Latino",LA156:Starz Encore Family FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58764
+#EXTINF:-1 tvg-id="" tvg-name="LA157:Starz Encore FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA538StarzEncoreFHD.png" group-title="Latino",LA157:Starz Encore FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58763
+#EXTINF:-1 tvg-id="" tvg-name="LA158:Starz Encore Suspense FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA539StarzEncoreSuspenseFHD.png" group-title="Latino",LA158:Starz Encore Suspense FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58762
+#EXTINF:-1 tvg-id="" tvg-name="LA159:Starz Encore Western FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA540StarzEncoreWesternFHD.png" group-title="Latino",LA159:Starz Encore Western FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58761
+#EXTINF:-1 tvg-id="" tvg-name="LA160:Starz Family HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA541StarzFamilyHD.png" group-title="Latino",LA160:Starz Family HD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58760
+#EXTINF:-1 tvg-id="" tvg-name="LA161:Starz FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA542StarzFHD.png" group-title="Latino",LA161:Starz FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58759
+#EXTINF:-1 tvg-id="" tvg-name="LA162:Starz Kids & Family FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA543StarzKids&FamilyFHD.png" group-title="Latino",LA162:Starz Kids & Family FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58758
