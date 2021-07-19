@@ -1,215 +1,3 @@
-#EXTINF:-1 tvg-id="a.e.mx" tvg-name="MX001:A&E FHD" tvg-logo="" group-title="Mexico",MX001:A&E FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51457
-#EXTINF:-1 tvg-id="adn40.mx" tvg-name="MX002:ADN40 FHD" tvg-logo="" group-title="Mexico",MX002:ADN40 FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51456
-#EXTINF:-1 tvg-id="aym.sports.mx" tvg-name="MX003:AL JAZZERA" tvg-logo="" group-title="Mexico",MX003:AL JAZZERA
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51455
-#EXTINF:-1 tvg-id="animal.planet.mx" tvg-name="MX004:Animal Planet FHD" tvg-logo="" group-title="Mexico",MX004:Animal Planet FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51454
-#EXTINF:-1 tvg-id="antena.3.mx" tvg-name="MX005:Antena 3 FHD" tvg-logo="" group-title="Mexico",MX005:Antena 3 FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51453
-#EXTINF:-1 tvg-id="axn.mx" tvg-name="MX006:AXN FHD" tvg-logo="" group-title="Mexico",MX006:AXN FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51452
-#EXTINF:-1 tvg-id="aym.sports.mx" tvg-name="MX007:AYM Sports FHD" tvg-logo="" group-title="Mexico",MX007:AYM Sports FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51451
-#EXTINF:-1 tvg-id="az.corazon.mx" tvg-name="MX008:Azteca Corazon FHD" tvg-logo="" group-title="Mexico",MX008:Azteca Corazon FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51450
-#EXTINF:-1 tvg-id="az.corazon.mx" tvg-name="MX009:Azteca Corazon" tvg-logo="" group-title="Mexico",MX009:Azteca Corazon
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51449
-#EXTINF:-1 tvg-id="tdn.mx" tvg-name="MX010:AZTECA FHD" tvg-logo="" group-title="Mexico",MX010:AZTECA FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51448
-#EXTINF:-1 tvg-id="azteca.7.mx" tvg-name="MX011:Azteca 7 FHD" tvg-logo="" group-title="Mexico",MX011:Azteca 7 FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51447
-#EXTINF:-1 tvg-id="azteca.cinema.mx" tvg-name="MX012:Azteca Cinema" tvg-logo="" group-title="Mexico",MX012:Azteca Cinema
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51446
-#EXTINF:-1 tvg-id="tdn.mx" tvg-name="MX013:TDN HD" tvg-logo="" group-title="Mexico",MX013:TDN HD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51445
-#EXTINF:-1 tvg-id="azteca.click.mx" tvg-name="MX014:AZTECA CLICK" tvg-logo="" group-title="Mexico",MX014:AZTECA CLICK
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51444
-#EXTINF:-1 tvg-id="21.junior.al" tvg-name="MX015:Azteca Deportes FHD" tvg-logo="" group-title="Mexico",MX015:Azteca Deportes FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51443
-#EXTINF:-1 tvg-id="bandamax.mx" tvg-name="MX016:Azteca Deportes" tvg-logo="" group-title="Mexico",MX016:Azteca Deportes
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51442
-#EXTINF:-1 tvg-id="azteca.uno.mx" tvg-name="MX017:Azteca undo FHD" tvg-logo="" group-title="Mexico",MX017:Azteca undo FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51441
-#EXTINF:-1 tvg-id="azteca.uno.mx" tvg-name="MX018:Azteca undo" tvg-logo="" group-title="Mexico",MX018:Azteca undo
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51440
-#EXTINF:-1 tvg-id="mundo.mx" tvg-name="MX019:AZTECA MUNDO" tvg-logo="" group-title="Mexico",MX019:AZTECA MUNDO
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51439
-#EXTINF:-1 tvg-id="" tvg-name="MX020:Baby TV" tvg-logo="" group-title="Mexico",MX020:Baby TV
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51438
-#EXTINF:-1 tvg-id="baby.mx" tvg-name="MX021:Baby TV FHD" tvg-logo="" group-title="Mexico",MX021:Baby TV FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51437
-#EXTINF:-1 tvg-id="bandamax.mx" tvg-name="MX022:Bandamax FHD" tvg-logo="" group-title="Mexico",MX022:Bandamax FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51436
-#EXTINF:-1 tvg-id="bandamax.mx" tvg-name="MX023:Bandamax" tvg-logo="" group-title="Mexico",MX023:Bandamax
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51435
-#EXTINF:-1 tvg-id="bbc.world.news.mx" tvg-name="MX024:BBC World News FHD" tvg-logo="" group-title="Mexico",MX024:BBC World News FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51434
-#EXTINF:-1 tvg-id="bloomberg.mx" tvg-name="MX025:BLOMMBERG" tvg-logo="" group-title="Mexico",MX025:BLOMMBERG
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51433
-#EXTINF:-1 tvg-id="bloomberg.mx" tvg-name="MX026:Boomerang FHD" tvg-logo="" group-title="Mexico",MX026:Boomerang FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51432
-#EXTINF:-1 tvg-id="cadena.noticias.37.mx" tvg-name="MX027:CADEND TV" tvg-logo="" group-title="Mexico",MX027:CADEND TV
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51431
-#EXTINF:-1 tvg-id="comedy.central.mx" tvg-name="MX028:CANAL 26 FHD" tvg-logo="" group-title="Mexico",MX028:CANAL 26 FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51430
-#EXTINF:-1 tvg-id="de.pelicula.mx" tvg-name="MX029:CANAL 26 HD" tvg-logo="" group-title="Mexico",MX029:CANAL 26 HD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51429
-#EXTINF:-1 tvg-id="canal.4.mx" tvg-name="MX030:CANAL 4 FHD" tvg-logo="" group-title="Mexico",MX030:CANAL 4 FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51428
-#EXTINF:-1 tvg-id="canal.5.mx" tvg-name="MX031:CANAL 5 FHD" tvg-logo="" group-title="Mexico",MX031:CANAL 5 FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51427
-#EXTINF:-1 tvg-id="canal.7.mx" tvg-name="MX032:CANAL 7" tvg-logo="" group-title="Mexico",MX032:CANAL 7
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51426
-#EXTINF:-1 tvg-id="discovery.turbo.international.mx" tvg-name="MX033:CANAL 8 FHD" tvg-logo="" group-title="Mexico",MX033:CANAL 8 FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51425
-#EXTINF:-1 tvg-id="excelsior.mx" tvg-name="MX034:Canal Judicial FHD" tvg-logo="" group-title="Mexico",MX034:Canal Judicial FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51424
-#EXTINF:-1 tvg-id="canal.once.mx" tvg-name="MX035:Canal Once FHD" tvg-logo="" group-title="Mexico",MX035:Canal Once FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51423
-#EXTINF:-1 tvg-id="21.junior.al" tvg-name="MX036:CANAL107" tvg-logo="" group-title="Mexico",MX036:CANAL107
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51422
-#EXTINF:-1 tvg-id="espn.mx" tvg-name="MX037:CANAL109 " tvg-logo="" group-title="Mexico",MX037:CANAL109 
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51421
-#EXTINF:-1 tvg-id="espn.2.mx" tvg-name="MX038:CANAL1749" tvg-logo="" group-title="Mexico",MX038:CANAL1749
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51420
-#EXTINF:-1 tvg-id="espn.3.mx" tvg-name="MX039:CANAL1899" tvg-logo="" group-title="Mexico",MX039:CANAL1899
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51419
-#EXTINF:-1 tvg-id="21.junior.al" tvg-name="MX040:CANAL1932" tvg-logo="" group-title="Mexico",MX040:CANAL1932
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51418
-#EXTINF:-1 tvg-id="espn.mx" tvg-name="MX041:CANAL1944" tvg-logo="" group-title="Mexico",MX041:CANAL1944
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51417
-#EXTINF:-1 tvg-id="espn+.mx" tvg-name="MX042:CANAL2062" tvg-logo="" group-title="Mexico",MX042:CANAL2062
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51416
-#EXTINF:-1 tvg-id="" tvg-name="MX043:CANAL2278" tvg-logo="" group-title="Mexico",MX043:CANAL2278
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51415
-#EXTINF:-1 tvg-id="21.junior.al" tvg-name="MX044:CANAL2319" tvg-logo="" group-title="Mexico",MX044:CANAL2319
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51414
-#EXTINF:-1 tvg-id="film.arts.mx" tvg-name="MX045:CANAL104" tvg-logo="" group-title="Mexico",MX045:CANAL104
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51413
-#EXTINF:-1 tvg-id="foro.mx" tvg-name="MX046:CANAL113" tvg-logo="" group-title="Mexico",MX046:CANAL113
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51412
-#EXTINF:-1 tvg-id="fox.mx" tvg-name="MX047:CANAL317" tvg-logo="" group-title="Mexico",MX047:CANAL317
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51411
-#EXTINF:-1 tvg-id="fox.life.mx" tvg-name="MX048:CANAL401" tvg-logo="" group-title="Mexico",MX048:CANAL401
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51410
-#EXTINF:-1 tvg-id="21.junior.al" tvg-name="MX049:CANAL470" tvg-logo="" group-title="Mexico",MX049:CANAL470
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51409
-#EXTINF:-1 tvg-id="cnn.mx" tvg-name="MX050:CNN" tvg-logo="" group-title="Mexico",MX050:CNN
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51408
-#EXTINF:-1 tvg-id="cnn.en.espanol.mx" tvg-name="MX051:CNN International" tvg-logo="" group-title="Mexico",MX051:CNN International
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51407
-#EXTINF:-1 tvg-id="comedy.central.mx" tvg-name="MX052:COMEDY CENTRAL FHD" tvg-logo="" group-title="Mexico",MX052:COMEDY CENTRAL FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51406
-#EXTINF:-1 tvg-id="de.pelicula.mx" tvg-name="MX053:De Pelicula FHD" tvg-logo="" group-title="Mexico",MX053:De Pelicula FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51405
-#EXTINF:-1 tvg-id="de.pelicula.eua.mx" tvg-name="MX054:De Pelicula Plus FHD" tvg-logo="" group-title="Mexico",MX054:De Pelicula Plus FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51404
-#EXTINF:-1 tvg-id="discovery.mx" tvg-name="MX055:Discovery CHANNEL FHD" tvg-logo="" group-title="Mexico",MX055:Discovery CHANNEL FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51403
-#EXTINF:-1 tvg-id="discovery.home.health.mx" tvg-name="MX056:Discovery H&H FHD" tvg-logo="" group-title="Mexico",MX056:Discovery H&H FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51402
-#EXTINF:-1 tvg-id="discovery.kids.mx" tvg-name="MX057:Discovery Kids FHD" tvg-logo="" group-title="Mexico",MX057:Discovery Kids FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51401
-#EXTINF:-1 tvg-id="discovery.science.international.mx" tvg-name="MX058:Discovery Science FHD" tvg-logo="" group-title="Mexico",MX058:Discovery Science FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51400
-#EXTINF:-1 tvg-id="discovery.theater.mx" tvg-name="MX059:Discovery Theater FHD" tvg-logo="" group-title="Mexico",MX059:Discovery Theater FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51399
-#EXTINF:-1 tvg-id="discovery.turbo.international.mx" tvg-name="MX060:Discovery Turbo FHD" tvg-logo="" group-title="Mexico",MX060:Discovery Turbo FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51398
-#EXTINF:-1 tvg-id="discovery.world.mx" tvg-name="MX061:Discovery World FHD" tvg-logo="" group-title="Mexico",MX061:Discovery World FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51397
-#EXTINF:-1 tvg-id="investigation.discovery.mx" tvg-name="MX062:Investigation Discovery FHD" tvg-logo="" group-title="Mexico",MX062:Investigation Discovery FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51396
-#EXTINF:-1 tvg-id="discovery.civilization.international.mx" tvg-name="MX063:Discovery Civilization FHD" tvg-logo="" group-title="Mexico",MX063:Discovery Civilization FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51395
-#EXTINF:-1 tvg-id="history.mx" tvg-name="MX064:Discovery TLC HD" tvg-logo="" group-title="Mexico",MX064:Discovery TLC HD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51394
-#EXTINF:-1 tvg-id="distrito.comedia.mx" tvg-name="MX065:Distrito Comedia FHD" tvg-logo="" group-title="Mexico",MX065:Distrito Comedia FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51393
-#EXTINF:-1 tvg-id="distrito.comedia.mx" tvg-name="MX066:Distrito Comedia" tvg-logo="" group-title="Mexico",MX066:Distrito Comedia
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51392
-#EXTINF:-1 tvg-id="disney.mx" tvg-name="MX067:Disney Channel FHD" tvg-logo="" group-title="Mexico",MX067:Disney Channel FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51391
-#EXTINF:-1 tvg-id="disney.junior.mx" tvg-name="MX068:Disney Jr FHD" tvg-logo="" group-title="Mexico",MX068:Disney Jr FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51390
-#EXTINF:-1 tvg-id="disney.xd.mx" tvg-name="MX069:Disney XD FHD" tvg-logo="" group-title="Mexico",MX069:Disney XD FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51389
-#EXTINF:-1 tvg-id="e.mx" tvg-name="MX070:E! Entertainment FHD" tvg-logo="" group-title="Mexico",MX070:E! Entertainment FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51388
-#EXTINF:-1 tvg-id="xhz.las.estrellas.qe.mx" tvg-name="MX071:Canal de las Estrellas" tvg-logo="" group-title="Mexico",MX071:Canal de las Estrellas
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51387
-#EXTINF:-1 tvg-id="el.gourmet.mx" tvg-name="MX072:EL GOURMET FHD" tvg-logo="" group-title="Mexico",MX072:EL GOURMET FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51386
-#EXTINF:-1 tvg-id="espn.mx" tvg-name="MX073:ESPN FHD" tvg-logo="" group-title="Mexico",MX073:ESPN FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51385
-#EXTINF:-1 tvg-id="espn.2.mx" tvg-name="MX074:ESPN 2 FHD" tvg-logo="" group-title="Mexico",MX074:ESPN 2 FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51384
-#EXTINF:-1 tvg-id="espn.3.mx" tvg-name="MX075:ESPN 3 FHD" tvg-logo="" group-title="Mexico",MX075:ESPN 3 FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51383
-#EXTINF:-1 tvg-id="espn+.mx" tvg-name="MX076:ESPN Plus FHD" tvg-logo="" group-title="Mexico",MX076:ESPN Plus FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51382
-#EXTINF:-1 tvg-id="espn.deportes.mx" tvg-name="MX077:ESPN NETWORK" tvg-logo="" group-title="Mexico",MX077:ESPN NETWORK
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51381
-#EXTINF:-1 tvg-id="excelsior.mx" tvg-name="MX078:Excelsior TV" tvg-logo="" group-title="Mexico",MX078:Excelsior TV
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51380
-#EXTINF:-1 tvg-id="film.arts.mx" tvg-name="MX079:FILM & ART HD" tvg-logo="" group-title="Mexico",MX079:FILM & ART HD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51379
-#EXTINF:-1 tvg-id="foro.mx" tvg-name="MX080:Foro TV FHD" tvg-logo="" group-title="Mexico",MX080:Foro TV FHD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51378
-#EXTINF:-1 tvg-id="fox.mx" tvg-name="MX081:FOX HD" tvg-logo="" group-title="Mexico",MX081:FOX HD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51377
-#EXTINF:-1 tvg-id="fox.life.mx" tvg-name="MX082:Fox Life HD" tvg-logo="" group-title="Mexico",MX082:Fox Life HD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51376
-#EXTINF:-1 tvg-id="bloomberg.mx" tvg-name="MX083:Fox Movies HD" tvg-logo="" group-title="Mexico",MX083:Fox Movies HD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51375
-#EXTINF:-1 tvg-id="fox.news.mx" tvg-name="MX084:Fox News HD" tvg-logo="" group-title="Mexico",MX084:Fox News HD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51374
-#EXTINF:-1 tvg-id="fox.premium.series.mx" tvg-name="MX085:Fox Series HD" tvg-logo="" group-title="Mexico",MX085:Fox Series HD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51373
-#EXTINF:-1 tvg-id="fox.sports.mx" tvg-name="MX086:Fox Sports 1 HD" tvg-logo="" group-title="Mexico",MX086:Fox Sports 1 HD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51372
-#EXTINF:-1 tvg-id="fox.sports.2.mx" tvg-name="MX087:Fox Sports 2 HD" tvg-logo="" group-title="Mexico",MX087:Fox Sports 2 HD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51371
-#EXTINF:-1 tvg-id="fox.sports.3.mx" tvg-name="MX088:Fox Sports 3 HD" tvg-logo="" group-title="Mexico",MX088:Fox Sports 3 HD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51370
-#EXTINF:-1 tvg-id="fox.premium.action.mx" tvg-name="MX089:Fox Action HD" tvg-logo="" group-title="Mexico",MX089:Fox Action HD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51369
-#EXTINF:-1 tvg-id="fx.mx" tvg-name="MX090:FX" tvg-logo="" group-title="Mexico",MX090:FX
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51368
-#EXTINF:-1 tvg-id="fx.movies.mx" tvg-name="MX091:FXM" tvg-logo="" group-title="Mexico",MX091:FXM
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51367
-#EXTINF:-1 tvg-id="golden.edge.mx" tvg-name="MX092:Golden Edge HD" tvg-logo="" group-title="Mexico",MX092:Golden Edge HD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51366
-#EXTINF:-1 tvg-id="canal.7.mx" tvg-name="MX093:Golden Plus HD" tvg-logo="" group-title="Mexico",MX093:Golden Plus HD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51365
-#EXTINF:-1 tvg-id="golden.mx" tvg-name="MX094:Golden HD" tvg-logo="" group-title="Mexico",MX094:Golden HD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51364
-#EXTINF:-1 tvg-id="history.mx" tvg-name="MX095:History HD" tvg-logo="" group-title="Mexico",MX095:History HD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51363
-#EXTINF:-1 tvg-id="hola.mx" tvg-name="MX096:HOLA TV HD" tvg-logo="" group-title="Mexico",MX096:HOLA TV HD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51362
-#EXTINF:-1 tvg-id="" tvg-name="MX097:VH1 Classic" tvg-logo="" group-title="Mexico",MX097:VH1 Classic
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51361
-#EXTINF:-1 tvg-id="imagen.mx" tvg-name="MX098:Imagen TV" tvg-logo="" group-title="Mexico",MX098:Imagen TV
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51360
-#EXTINF:-1 tvg-id="xhopma.ingenio.df.mx" tvg-name="MX099:Ingenio Tv" tvg-logo="" group-title="Mexico",MX099:Ingenio Tv
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51359
-#EXTINF:-1 tvg-id="lifetime.mx" tvg-name="MX100:Lifetime HD" tvg-logo="" group-title="Mexico",MX100:Lifetime HD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51358
-#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="MX101:Nickelodeon HD" tvg-logo="" group-title="Mexico",MX101:Nickelodeon HD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51357
-#EXTINF:-1 tvg-id="nick.2.mx" tvg-name="MX102:Nick 2 HD" tvg-logo="" group-title="Mexico",MX102:Nick 2 HD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51356
-#EXTINF:-1 tvg-id="el.nu9ve.mx" tvg-name="MX103:NU9VE TV" tvg-logo="" group-title="Mexico",MX103:NU9VE TV
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51355
-#EXTINF:-1 tvg-id="paramount.network.mx" tvg-name="MX104:Paramount Channel HD" tvg-logo="" group-title="Mexico",MX104:Paramount Channel HD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51354
-#EXTINF:-1 tvg-id="syfy.mx" tvg-name="MX105:SYFY HD" tvg-logo="" group-title="Mexico",MX105:SYFY HD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51353
-#EXTINF:-1 tvg-id="tnt.mx" tvg-name="MX106:TNT HD" tvg-logo="" group-title="Mexico",MX106:TNT HD
-http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/51352
 #EXTINF:-1 tvg-id="" tvg-name="LA001:A&E LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA001A&ELA.png" group-title="Latino",LA001:A&E LA
 http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58056
 #EXTINF:-1 tvg-id="" tvg-name="LA002:AMC LA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA002AMCLA.png" group-title="Latino",LA002:AMC LA
@@ -520,3 +308,39 @@ http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58760
 http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58759
 #EXTINF:-1 tvg-id="" tvg-name="LA162:Starz Kids & Family FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA543StarzKids&FamilyFHD.png" group-title="Latino",LA162:Starz Kids & Family FHD
 http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58758
+#EXTINF:-1 tvg-id="" tvg-name="LA163:Starz West FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA544StarzWestFHD.png" group-title="Latino",LA163:Starz West FHD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58757
+#EXTINF:-1 tvg-id="" tvg-name="LA164:TELEFE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA560TELEFEHD.png" group-title="Latino",LA164:TELEFE HD
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58741
+#EXTINF:-1 tvg-id="" tvg-name="LA166:Galavision" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA600Galavision.png" group-title="Latino",LA166:Galavision
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58701
+#EXTINF:-1 tvg-id="" tvg-name="LA167:TUDN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA606TUDN.png" group-title="Latino",LA167:TUDN
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58695
+#EXTINF:-1 tvg-id="" tvg-name="LA169:UniMas West" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA633UniMasWest.png" group-title="Latino",LA169:UniMas West
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58668
+#EXTINF:-1 tvg-id="" tvg-name="LA170:TIGO SPORT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA651TIGOSPORT.png" group-title="Latino",LA170:TIGO SPORT
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58650
+#EXTINF:-1 tvg-id="" tvg-name="LA171:Cinemax MXL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA652ULTRAFilm.png" group-title="Latino",LA171:Cinemax MXL
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/58649
+#EXTINF:-1 tvg-id="" tvg-name="LA174:Canal Uno (Ecuador)" tvg-logo="" group-title="Latino",LA174:Canal Uno (Ecuador)
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/65934
+#EXTINF:-1 tvg-id="" tvg-name="LA176:Ecuador TV HD (Ecuador)" tvg-logo="" group-title="Latino",LA176:Ecuador TV HD (Ecuador)
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/65935
+#EXTINF:-1 tvg-id="" tvg-name="LA177:Ecuavisa HD (Ecuador)" tvg-logo="" group-title="Latino",LA177:Ecuavisa HD (Ecuador)
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/65936
+#EXTINF:-1 tvg-id="" tvg-name="LA178:Gamavision (Ecuador)" tvg-logo="" group-title="Latino",LA178:Gamavision (Ecuador)
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/65937
+#EXTINF:-1 tvg-id="" tvg-name="LA179:Gol TV (Ecuador)" tvg-logo="" group-title="Latino",LA179:Gol TV (Ecuador)
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/65938
+#EXTINF:-1 tvg-id="" tvg-name="LA180:Oromar (Ecuador)" tvg-logo="" group-title="Latino",LA180:Oromar (Ecuador)
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/65939
+#EXTINF:-1 tvg-id="" tvg-name="LA181:Rts (Ecuador)" tvg-logo="" group-title="Latino",LA181:Rts (Ecuador)
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/65940
+#EXTINF:-1 tvg-id="" tvg-name="LA182:Tc Television (Ecuador)" tvg-logo="" group-title="Latino",LA182:Tc Television (Ecuador)
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/65941
+#EXTINF:-1 tvg-id="" tvg-name="LA183:Teleamazonas (Ecuador)" tvg-logo="" group-title="Latino",LA183:Teleamazonas (Ecuador)
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/65942
+#EXTINF:-1 tvg-id="" tvg-name="LA184:Televicentro (Ecuador)" tvg-logo="" group-title="Latino",LA184:Televicentro (Ecuador)
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/65943
+#EXTINF:-1 tvg-id="" tvg-name="LA185:DIRECTV SPORTS (Ecuador)" tvg-logo="" group-title="Latino",LA185:DIRECTV SPORTS (Ecuador)
+http://95.214.235.95:8880/wsy2y016/yJN4xhAmJj/65944
